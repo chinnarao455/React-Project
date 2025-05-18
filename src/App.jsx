@@ -10,21 +10,21 @@ import "./App.css";
 const initialProfiles = [
   {
     id: 1,
-    name: "Alice Johnson",
+    name: "D Sandhya",
     photo: "https://randomuser.me/api/portraits/women/44.jpg",
-    description: "Software engineer from NY.",
-    address: "1600 Pennsylvania Avenue NW, Washington, DC 20500",
-    contact: "alice@example.com",
-    interests: ["Hiking", "Photography"],
+    description: "Software engineer from EY.",
+    address: "HightechCity in Hyderabad",
+    contact: "Sandhya@gmail.com"
+    interests: ["ReadingBooks", "Photography"],
   },
   {
     id: 2,
-    name: "Bob Smith",
+    name: "D.Chinnarao",
     photo: "https://randomuser.me/api/portraits/men/32.jpg",
-    description: "Marketing specialist based in CA.",
-    address: "1 Infinite Loop, Cupertino, CA 95014",
-    contact: "bob@example.com",
-    interests: ["Reading", "Gaming"],
+    description: "FullStackDeveloper",
+    address: "Kukatpallyin hHyderabad",
+    contact: "Chinnarao@gmail.com",
+    interests: ["Cricket", "Gaming"],
   },
 ];
 
