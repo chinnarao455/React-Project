@@ -14,7 +14,7 @@ const initialProfiles = [
     photo: "https://randomuser.me/api/portraits/women/44.jpg",
     description: "Software engineer from EY.",
     address: "HightechCity in Hyderabad",
-    contact: "Sandhya@gmail.com"
+    contact: "Sandhya@gmail.com",
     interests: ["ReadingBooks", "Photography"],
   },
   {
